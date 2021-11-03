@@ -1,4 +1,4 @@
-# kambanaize-test
+# Kambanaize-test
 
 ## Lorem Ipsum
 
